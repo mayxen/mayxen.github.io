@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.28adc4dc.css",
-    "main.js": "/static/js/main.131696c0.js",
+    "main.css": "/static/css/main.74e2de15.css",
+    "main.js": "/static/js/main.6617e083.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/menuplayer.png": "/static/media/menuplayer.90b0928d246832bc88e1.png",
+    "static/media/porfolio.png": "/static/media/porfolio.38202e8f04e35bca2eff.png",
     "static/media/main.png": "/static/media/main.69f234f0a7f49dc72f91.png",
     "static/media/manuplayeritem.png": "/static/media/manuplayeritem.3c466140c2a421265200.png",
     "static/media/menu.png": "/static/media/menu.71562a17dd5750995314.png",
@@ -12,21 +13,33 @@
     "static/media/portada.png": "/static/media/portada.90b9a81279b6e10b387e.png",
     "static/media/game2.png": "/static/media/game2.1eb5ac84ec06ccb2b79e.png",
     "static/media/game1.png": "/static/media/game1.398bc173d170056d2dcf.png",
+    "static/media/postgresql.png": "/static/media/postgresql.346709d92d82791ad17d.png",
     "static/media/game.png": "/static/media/game.bf07cf67b38394033f6f.png",
     "static/media/panel.png": "/static/media/panel.29e2c9693971bad71fb6.png",
     "static/media/login.png": "/static/media/login.d1cfcff61446fbeda5bf.png",
+    "static/media/apache.png": "/static/media/apache.013c115f67fc05f3a06f.png",
+    "static/media/nodejs.png": "/static/media/nodejs.abfaef34ea49d0c7cd3c.png",
+    "static/media/expresjs.png": "/static/media/expresjs.1774a44a9621d0bc18db.png",
+    "static/media/react.webp": "/static/media/react.77a840c3480826b2a50f.webp",
+    "static/media/c++.png": "/static/media/c++.f4f4c427bd0bc8e219d4.png",
+    "static/media/htmcssjs.png": "/static/media/htmcssjs.40d367ac4b0502c785a7.png",
+    "static/media/java.png": "/static/media/java.88e2b4ce5e7d914dcb23.png",
+    "static/media/Laravel.jpg": "/static/media/Laravel.cf773d1a1ad020625e31.jpg",
     "static/media/myself.jpg": "/static/media/myself.a5cbbe7794e9006f3f67.jpg",
+    "static/media/whm.png": "/static/media/whm.68aaadc81ef0caaada6b.png",
+    "static/media/mysql.png": "/static/media/mysql.9abb470bd3a3e2290e39.png",
+    "static/media/unity.webp": "/static/media/unity.b1127fe3e2b0db8feb63.webp",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.28adc4dc.css.map": "/static/css/main.28adc4dc.css.map",
-    "main.131696c0.js.map": "/static/js/main.131696c0.js.map",
+    "main.74e2de15.css.map": "/static/css/main.74e2de15.css.map",
+    "main.6617e083.js.map": "/static/js/main.6617e083.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28adc4dc.css",
-    "static/js/main.131696c0.js"
+    "static/css/main.74e2de15.css",
+    "static/js/main.6617e083.js"
   ]
 }
