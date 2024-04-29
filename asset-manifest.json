@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0f616b3a.css",
-    "main.js": "/static/js/main.5579cc55.js",
+    "main.js": "/static/js/main.688cc2df.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/resume.pdf": "/static/media/resume.ede42dd9a21add2cc61f.pdf",
     "static/media/menuplayer.png": "/static/media/menuplayer.90b0928d246832bc88e1.png",
@@ -25,7 +25,7 @@
     "static/media/htmcssjs.png": "/static/media/htmcssjs.40d367ac4b0502c785a7.png",
     "static/media/java.png": "/static/media/java.88e2b4ce5e7d914dcb23.png",
     "static/media/Laravel.jpg": "/static/media/Laravel.cf773d1a1ad020625e31.jpg",
-    "static/media/c\u0000#.png": "/static/media/c#.b9d3788a5d4c064b0980.png",
+    "static/media/c.jpeg": "/static/media/c.8f35689aab1c86a4b890.jpeg",
     "static/media/vue.jpg": "/static/media/vue.13c5dffb7704b1132166.jpg",
     "static/media/mysql.png": "/static/media/mysql.9abb470bd3a3e2290e39.png",
     "static/media/unrealEngine.png": "/static/media/unrealEngine.f106b6f4f452e00de78d.png",
@@ -36,11 +36,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.0f616b3a.css.map": "/static/css/main.0f616b3a.css.map",
-    "main.5579cc55.js.map": "/static/js/main.5579cc55.js.map",
+    "main.688cc2df.js.map": "/static/js/main.688cc2df.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f616b3a.css",
-    "static/js/main.5579cc55.js"
+    "static/js/main.688cc2df.js"
   ]
 }
